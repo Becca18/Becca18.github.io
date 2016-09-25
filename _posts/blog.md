@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Data Science Bootcamp
 ---
 
-#Metis - Week 1  
+##Metis - Week 1  
 
 I was super excited to start Metis this week! A data science education has been something I’ve wanted since 2006 when I first became interested in operations research and data analytics. 10 years later I am finally learning the techniques that will help me land a data science role at a forward-thinking company.
 
