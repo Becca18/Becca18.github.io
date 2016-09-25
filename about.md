@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! Thanks for visiting my blog. I’m a Metis data science bootcamp student who will be on the job market in December. I live in San Francisco with my husband and black pug named Wilbur. I’m a huge animal lover and vegetarian. I love good wine, being outdoors, traveling, and creativity. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rebeccaghyde@domain.com](mailto:rebeccaghyde@domain.com)
