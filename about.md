@@ -9,4 +9,4 @@ Hi! Thanks for visiting my blog. I’m a Metis data science bootcamp student who
 
 ### Contact me
 
-[rebeccaghyde@domain.com](mailto:rebeccaghyde@domain.com)
+[rebeccaghyde@gmail.com](mailto:rebeccaghyde@gmail.com)
